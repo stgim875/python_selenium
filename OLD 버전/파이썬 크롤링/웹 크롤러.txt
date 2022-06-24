@@ -1,0 +1,14 @@
+나만의 웹 크롤러 만들기
+https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/
+
+참고
+https://blog.naver.com/wevebeen/222010568750
+
+javascript 참고
+https://blog.naver.com/inspireworld/221548432293
+
+Selenium Webdriver  이용하기
+https://blog.naver.com/kspark75/221618094583
+
+파이썬 기초 웹크롤링 :: selenium webdriver
+https://blog.naver.com/cflab/221968455786
